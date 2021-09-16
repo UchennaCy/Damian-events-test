@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:Calendar
+VERSION:2.0
+BEGIN:VEVENT
+UID:0@default
+CLASS:PUBLIC
+DESCRIPTION:This major exhibition will explore Tokyo through the varied and vibrant arts it has generated over 400 years, from its beginnings as the headquarters of the Tokugawa shoguns in the early 1600s to the sprawling modern metropolis and dynamic centre of art, photography and design it is today.
+DTSTAMP;VALUE=DATE-TIME:20210902T172543
+DTSTART;VALUE=DATE-TIME:20211120T150000
+DTEND;VALUE=DATE-TIME:20211120T190000
+LOCATION:Coulter Art Gallery Coulter Art Gallery
+URL:https://damian-events.coursedog.com/events/WZ6zrPmdj12PkWIDTmfX/61w5wfhCtxaJ6zYlebWA
+SUMMARY;LANGUAGE=en-us:Tokyo: Art and Photography
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
