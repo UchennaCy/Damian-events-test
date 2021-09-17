@@ -51,7 +51,7 @@ describe('e2e test on coursedog\'s event page ', () => {
             cy.get('div[role="listitem"]').should('have.length', 3)
         })
 
-        it('I can see more details when I click on the event  card', () => {
+        it('I can see more details when I click on the first event card', () => {
             cy.get('div[role="listitem"]').first().click()
 
             // add to calendar link
@@ -98,7 +98,7 @@ describe('e2e test on coursedog\'s event page ', () => {
 
         })
 
-        it('I can see more details, when I click on QA Task submission event card', () => {
+        it('I can see more details when I click on the QA Task submission event card', () => {
             cy.get('[href="/featured"]').click()
             
             cy.get('div[role="listitem"]').contains('QA Task Submission').click()
