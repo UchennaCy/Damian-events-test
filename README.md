@@ -1,6 +1,6 @@
 # Coursedog's e2e test
 
-This repo contains my e2e tests for the Coursedog event site. Test is wrotten in Cypress (https://www.cypress.io/).
+This repo contains my e2e tests for the Coursedog's event site. Test is written in Cypress(https://www.cypress.io/).
 
 ## To Test
 
@@ -23,7 +23,7 @@ npm run cy:open
 
 ## User Stories
 
-* When I select a specific date from the calendar
+When I select a specific date from the calendar
  I can only see events that happen on that day
 
 ## Given that current date is November 20th, 2021
