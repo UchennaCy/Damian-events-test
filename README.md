@@ -45,11 +45,11 @@ npm run cy:open
 
 ## 4. When I click on the first event card
  I can see more details about the event
- Add to calendar link
- Add to Google calendar link
- Event Type
- Organization
- Event description
+ * Add to calendar link
+ * Add to Google calendar link
+ * Event Type
+ * Organization
+ * Event description
 
 ** Given that current date is September 2nd, 2021
 
@@ -63,11 +63,11 @@ npm run cy:open
 
 ## 7. When I click on the QA Task Submission event card
  I can see more details about the event
- Add to calendar link
- Add to Google calendar link
- Event Type
- Organization
- Contacts
- Event description
+ * Add to calendar link
+ * Add to Google calendar link
+ * Event Type
+ * Organization
+ * Contacts
+ * Event description
 
  
