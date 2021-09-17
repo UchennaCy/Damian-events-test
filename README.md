@@ -16,6 +16,9 @@ cd Damian-events-test
 ## install the node_modules
 npm install
 
+## Change the date on your computer
+Change the date on your computer to 2nd of September, 2021.
+
 ## Open Cypress 
 npm run cy:open
 ```
